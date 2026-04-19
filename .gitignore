@@ -1,0 +1,26 @@
+# 构建产物
+build/
+x64/
+Debug/
+Release/
+out/
+
+# IDE
+.vs/
+.vscode/
+.cache/
+*.user
+*.suo
+*.sln
+*.slnx
+
+# 编译产物
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.lib
+
+# 数据文件
+empFile.txt
